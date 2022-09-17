@@ -1,0 +1,48 @@
+.boton {
+  height: 300px;
+  width: 300px;
+  border-color: rgb(255, 251, 6);
+  margin: 100px 50px 100px 50px;
+  border: 15px solid rgb(56, 80, 1);
+}
+h1{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 4em;
+  color: rgb(255, 209, 3);
+  margin-left: 20%;
+  margin-right:20%;
+}
+
+body{
+  text-align: center;
+  background-image: url("Imagenes/fondo.jpeg");
+  background-size: 110%;
+}
+
+
+
+ 
+
+
+
+footer{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 2em;
+  color: rgb(42, 42, 40);
+  margin-top:150px;
+}
+
+.elefante {
+  background-image: url("Imagenes/elefante.png");
+  background-size:contain;
+  }
+
+.mico {
+  background-image: url("Imagenes/mico.png");
+  background-size:contain;
+  }
+
+  .tigre {
+  background-image: url("Imagenes/tigre.png");
+  background-size:contain;
+  }
